@@ -53,3 +53,11 @@ datepicker로 선택한 시간 선택시간에 출력
 탭 바 컨트롤러 이용해 여러 개의 뷰 넣기 
 - [Editor > Embed in > Tab Bar Controller] 로 탭 바 컨트롤러 추가 
 - [Identity inspector] 에서 Class가 연결하고자 하는 Controller와 연결되어 있는지 확인 
+
+12. Navigation
+내비게이션 컨트롤러 이용해 화면 전환하기
+- 메인화면에서 [수정] 버튼 클릭시 '수정화면'으로 이동함
+- '수정화면'에서 메세지 입력시 메인화면에 동일하게 표시 
+- [Editor > Embed in > Navigation Controller] 로 내비게이션 컨트롤러 추가 
+- 세그웨이 : 메인화면에서 서브 화면으로 이동 [Action segue > show]
+- prepare 함수 : 해당 세그웨이가 해당 VC로 전환되기 전에 호출되는 함수(데이터 전달하는 함수)
