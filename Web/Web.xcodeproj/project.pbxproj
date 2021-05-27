@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D1B7F73425ED3BCA00F07C4B /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = D1B7F73325ED3BCA00F07C4B /* htmlView.html */; };
+		D1D5909E2651F88E00BD4DCD /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D1D5909D2651F88E00BD4DCD /* 4.jpg */; };
 		D1DC7AC425EB8AF600850950 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC7AC325EB8AF600850950 /* AppDelegate.swift */; };
 		D1DC7AC625EB8AF600850950 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC7AC525EB8AF600850950 /* SceneDelegate.swift */; };
 		D1DC7AC825EB8AF600850950 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC7AC725EB8AF600850950 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		D1B7F73325ED3BCA00F07C4B /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
+		D1D5909D2651F88E00BD4DCD /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpg; path = ../../imageFile/4.jpg; sourceTree = "<group>"; };
 		D1DC7AC025EB8AF600850950 /* Web.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Web.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1DC7AC325EB8AF600850950 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1DC7AC525EB8AF600850950 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 		D1DC7AC225EB8AF600850950 /* Web */ = {
 			isa = PBXGroup;
 			children = (
+				D1D5909D2651F88E00BD4DCD /* 4.jpg */,
 				D1DC7AC325EB8AF600850950 /* AppDelegate.swift */,
 				D1DC7AC525EB8AF600850950 /* SceneDelegate.swift */,
 				D1DC7AC725EB8AF600850950 /* ViewController.swift */,
@@ -142,6 +145,7 @@
 				D1B7F73425ED3BCA00F07C4B /* htmlView.html in Resources */,
 				D1DC7AD025EB8AF900850950 /* LaunchScreen.storyboard in Resources */,
 				D1DC7ACD25EB8AF900850950 /* Assets.xcassets in Resources */,
+				D1D5909E2651F88E00BD4DCD /* 4.jpg in Resources */,
 				D1DC7ACB25EB8AF600850950 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

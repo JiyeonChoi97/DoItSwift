@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Web
+//  Navigation
 //
-//  Created by 최지연 on 2021/02/28.
+//  Created by 최지연 on 2021/05/27.
 //
 
 import UIKit
@@ -13,7 +13,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        sleep(2)
         // Override point for customization after application launch.
         return true
     }

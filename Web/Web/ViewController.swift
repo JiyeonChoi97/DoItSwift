@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Web
 //
-//  Created by 최지연 on 2021/02/28.
+//  Created by 최지연 on 2021/05/17.
 //
 // 웹 뷰로 간단한 웹 브라우저 만들기
 // - 앱 시작할 때 지정된 페이지 보여주기 : loadWebPage
@@ -70,7 +70,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
     }
     
     @IBAction func btnGoSite1(_ sender: UIButton) {
-        loadWebPage("https://github.com/JiyeonChoi97")
+        loadWebPage("http://naver.com")
     }
     
     @IBAction func btnGoSite2(_ sender: UIButton) {
